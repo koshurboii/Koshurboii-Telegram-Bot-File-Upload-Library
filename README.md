@@ -1,2 +1,2 @@
 # Koshurboii-Telegram-Bot-File-Upload-Library
-Koshurboii Telegram Bot File Upload Library is a Java library ( specifically made for Sketchware Pro)that simplifies the process of sending files to a Telegram bot. With this library, you can easily upload files, such as documents, images, or videos, to your Telegram bot using the Telegram Bot API.
+In order to simplify the process of uploading files to a Telegram bot, you can use the Koshurboii Telegram Bot File Upload Library. This library is specifically designed for Sketchware Pro and is written in Java. It provides a convenient method to send files, such as documents, images, or videos, to your Telegram bot using the Telegram Bot API.
