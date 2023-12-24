@@ -3,4 +3,4 @@ In order to simplify the process of uploading files to a Telegram bot, you can u
 
 To get started, ensure that you include your 'BOT_TOKEN' and 'chat_ID' in the code. This information is necessary for authenticating and identifying the bot and the target chat where the file will be uploaded.
 
-Please note that this library is currently at its base model, but it offers a practical solution for file uploads to Telegram bots. 🔧💻
+Please note that this library is currently at its base model, but it offers a practical solution for file uploads through Telegram bot api. 🔧💻
